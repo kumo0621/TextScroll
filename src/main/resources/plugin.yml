@@ -1,0 +1,4 @@
+name: TextScroll
+version: '${project.version}'
+main: com.github.kumo0621.textscroll.TextScroll
+api-version: 1.16
